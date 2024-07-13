@@ -6,4 +6,4 @@ https://ieeexplore.ieee.org/document/5723901
 
 Link to dataset: https://drive.google.com/file/d/1AZUaKRhf4nFLtssEI8A7-i23-faTigtE/view?usp=sharing
 
-The MATLAB codes can be found in the code folder and some screenshots of the GUI in the screenshots folder.
+The MATLAB codes can be found in the code folder and several screenshots of the GUI in the screenshots folder.
